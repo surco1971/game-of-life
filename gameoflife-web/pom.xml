@@ -17,7 +17,7 @@
     </properties>
 
     <build>
-        <finalName>gameoflife</finalName>
+        <finalName>WebContent</finalName>
         <resources>
             <resource>
                 <directory>src/main/resources</directory>
