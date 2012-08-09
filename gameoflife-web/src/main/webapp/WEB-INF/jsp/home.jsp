@@ -61,12 +61,12 @@
     </style>
 </head>
 <body>
-<h2>Welcome to Conway's Game Of Life! - hacked by gem</h2>
+<h2>Welcome to Conway's Game Of Life! - changed by gem</h2>
 
 <div class="intro">
     <p>This is a really cool web version of Conway's famous Game Of
         Life. The Game of Life is a cellular automaton devised by the Peruvian
-        mathematician Karla Ayllon way back in 1990.</p>
+        mathematician Michael Gerhardt way back in 1990.</p>
 
     <p>The universe of the Game of Life is an infinite two-dimensional
         orthogonal grid of square cells, each of which is in one of two possible
