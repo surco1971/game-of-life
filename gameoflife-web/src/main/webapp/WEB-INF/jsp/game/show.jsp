@@ -89,7 +89,7 @@
 <div class="breadcrumbs">
     <a href="${homePage}">home</a> > Game in Progress
 </div>
-<div class="intro">Press 'Next Generation' to see how this universe evolves...</div>
+<div class="intro">Press 'Next Generation' to see how this universe envolves...</div>
 <div class="griddisplay">
     <form action="${nextPage}" method="get">
         <input type="hidden" name="rows" value="${rows}"/>
